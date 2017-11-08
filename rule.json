@@ -1,17 +1,17 @@
 {
 
-  name: 'Test GitHub Rule',
-  author: 'L.Sabatelli',
-  description: 'An example of a GitHub remote Rule to be imported',
+  'name': 'Test GitHub Rule',
+  'author': 'L.Sabatelli',
+  'description': 'An example of a GitHub remote Rule to be imported',
   
-  selector: 'google',
-  onLoad: true,
+  'selector': 'google',
+  'onLoad': true,
   
-  code: {
+  'code': {
   
-    js: 'js/file.js',
-    css: 'css/file.css',
-    html: 'html/file.html',
+    'js': 'js/file.js',
+    'css': 'css/file.css',
+    'html': 'html/file.html',
   
   }
   
