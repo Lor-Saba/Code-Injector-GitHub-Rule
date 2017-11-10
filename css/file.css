@@ -7,3 +7,7 @@
   padding: 50px;
   background: #f00;
 }
+
+#test[data-test="true"]{
+  background: #00f;
+}
